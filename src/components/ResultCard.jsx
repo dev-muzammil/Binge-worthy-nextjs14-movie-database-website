@@ -24,6 +24,8 @@ const ResultCard = ({ result }) => {
               src={`https://image.tmdb.org/t/p/original/${
                 result.backdrop_path || result.poster_path
               }`}
+              alt="Movie Poster"
+              priority="high"
               width={500}
               height={300}
               className="group-hover:opacity-75 transition-opacity duration-300"
