@@ -12,14 +12,14 @@ const About = () => {
       </h1>
       <p className="font-semibold text-xl">
         ‎ ‎ ‎ ‎ ‎ Binge Worthy is your one-stop destination for everything movies.
-        Inspired by the thrill of discovering the perfect binge-watch, we've
+        Inspired by the thrill of discovering the perfect binge-watch, we&apos;ve
         created a comprehensive platform that offers in-depth information,
         expert reviews, and personalized recommendations to help you find your
         next cinematic obsession.
       </p>
       <p className="font-semibold text-xl">
         Just like IMDb, but with a focus on the binge-worthy experience. We
-        understand that choosing what to watch can be overwhelming, so we've
+        understand that choosing what to watch can be overwhelming, so we&apos;ve
         designed Binge Worthy to be your trusted guide through the vast world of
         cinema.
       </p>
@@ -45,7 +45,7 @@ const About = () => {
         </ListItem>
       </UnorderedList>
       <p className="font-semibold text-xl">
-        Whether you're a casual moviegoer or a dedicated cinephile, Binge Worthy
+        Whether you&apos;re a casual moviegoer or a dedicated cinephile, Binge Worthy
         is your go-to resource for discovering and enjoying great films.
       </p>
       <p className="font-semibold text-xl text-center text-emerald-600">
